@@ -80,7 +80,7 @@ class ImageController {
   }
 
   Future<void> performOCR() async {
-    var url = Uri.parse('http://192.168.43.156:5000/ocr');
+    var url = Uri.parse('http://10.131.77.109:5000/ocr');
     final imageFile = imageNotifier.value;
     if (imageFile == null) return;
 

@@ -2,7 +2,7 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 
 class CameraTranslationService {
-  final String _baseUrl = 'http://192.168.43.156:7860/api/predict';
+  final String _baseUrl = 'http://10.131.77.109:7860/api/predict';
 
   Future<String> translate(String text, {String toLang = 'English'}) async {
     try {
