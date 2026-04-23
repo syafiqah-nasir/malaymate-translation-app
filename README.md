@@ -32,4 +32,4 @@ Standard Malay, Selangor, Johor, Kedah, Kelantan, Melaka, Negeri Sembilan, Pahan
 - [x] Implement real-time voice translation for conversations
 - [x] Provide offline phrasebook with local dialects
 
-## 📐 System Architecture
+
