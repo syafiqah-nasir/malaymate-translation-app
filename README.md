@@ -13,7 +13,7 @@ MalayMate is a bilingual translation mobile application designed to bridge the c
 | **Voice Translation** | Speech-to-text and text-to-speech for live conversations |
 | **Offline Phrasebook** | Essential phrases in 14 dialects (no internet required) |
 
-### Supported Dialects
+### Supported Dialects for Offline Phrasebook
 Standard Malay, Selangor, Johor, Kedah, Kelantan, Melaka, Negeri Sembilan, Pahang, Penang, Perak, Perlis, Sabah, Sarawak, Terengganu
 
 ## 🛠️ Tech Stack
@@ -32,4 +32,13 @@ Standard Malay, Selangor, Johor, Kedah, Kelantan, Melaka, Negeri Sembilan, Pahan
 - [x] Implement real-time voice translation for conversations
 - [x] Provide offline phrasebook with local dialects
 
+## :art: UI/UX 
+
+<div align="center">
+  <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/5c8972d8-c5b5-4a6e-860c-c65047f316c5" />
+  <br/><br/>
+  <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/1f929b58-f30f-4ac5-a96e-0a9494d0060b" />
+   <br/><br/>
+  <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e0b5d57c-0cb6-409e-8fa5-28f1b415c056" />
+</div>
 
